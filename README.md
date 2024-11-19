@@ -13,8 +13,8 @@
 1. **Клонируйте репозиторий или скопируйте скрипт:**
 
    ```bash
-   git clone <URL вашего репозитория>
-   cd <папка вашего проекта>
+   git clone [<URL вашего репозитория>](https://github.com/Laravelka/yandex-scpeechkit-python.git)
+   cd /frappe
    ```
 
 2. **Установите необходимые зависимости:**
